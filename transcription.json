@@ -1,0 +1,458 @@
+{
+  "metadata": {
+    "title": "《臥牛醫案》〈醫案〉",
+    "roman_title": "Gagyū ian: Ian",
+    "english_title": "Clinical Essay from Gagyū ian",
+    "author": "中山照久",
+    "date": "文化乙亥四月十九日（1815）篇末署記",
+    "location": "京都",
+    "repository": "京都大學附屬圖書館",
+    "collection": "富士川文庫",
+    "shelfmark": "カ/86",
+    "acquisition_id": "184009",
+    "language": "lzh",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001552",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "〈醫案〉是中山照久於文化十二年（1815）署記的漢文短篇，藏於京都大學附屬圖書館富士川文庫《臥牛醫案》（カ/86）。篇中辨析當時的「霍亂」「宿食」與「傷食」用語，援引醫書並記述飲食致病的見聞。資料集收整篇五個書面，對應館方影像第 24 幅左半至第 26 幅左半。",
+    "description_en": "Dated 1815 and signed by 中山照久, Ian is a Classical Chinese essay in the Gagyū ian manuscript (Fujikawa Collection, Kyoto University Main Library, カ/86). It distinguishes historical categories of digestive illness, draws on medical classics, and records observations of illnesses attributed to food. The dataset transcribes the complete five-face essay, corresponding to the left half of catalogue frame 24 through the left half of frame 26.",
+    "txt_reader_statement": "館方第 24–26 幅依本篇標成影像 01–03。第 24 幅從左半葉起，後兩幅依右半葉、左半葉讀，各面由右向左。□ 表示未定字，墨點另按字位標記。末欄保存日期與署記。",
+    "tei_editorial_statement": "按館方影像第 24–26 幅及實際讀序存錄；表面 01–03 分別對應館方第 24–26 幅。墨點與正文分層，原稿欄序及署記保存，□ 標待定字。",
+    "manifest_url": null,
+    "record_id": "RB00001552",
+    "edition": "0.1.0",
+    "catalogue_canvas_count": 52,
+    "catalogue_main_scope": [
+      24,
+      25,
+      26
+    ],
+    "catalogue_faces_scope": [
+      "24L",
+      "25R",
+      "25L",
+      "26R",
+      "26L"
+    ],
+    "version": "0.1.0",
+    "dataset_title": "《臥牛醫案》〈醫案〉（1815 年署記，京都大學 カ/86） / Gagyū ian, Ian [An essay on digestive disorders]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_frame": 24,
+      "sides": [
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "醫案"
+            },
+            {
+              "text": "夫霍亂也者飲食傷之病名也與宿食不同"
+            },
+            {
+              "text": "譬猶謂雲霧謂暴雨一而二也傷食宿食共"
+            },
+            {
+              "text": "發自飲食然傷之與宿字勢可見矣宿食也"
+            },
+            {
+              "text": "食物未化而重食遂停滯而病故吞酸呃噫"
+            },
+            {
+              "text": "或泄利如抱壞雞子或米穀不化矣傷食也"
+            },
+            {
+              "text": "為食物所傷故腹痛吐泻轉筋厥冷或頭痛"
+            },
+            {
+              "text": "發熱惡寒身躰疼痛或吐泻後煩渴引飲小"
+            },
+            {
+              "text": "便不利或欲吐而不吐欲利而不利腹滿絞"
+            },
+            {
+              "text": "痛形證殆類傷寒是以傷寒論末附霍亂以"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "呃噫",
+          "candidates": [
+            "呃"
+          ],
+          "note": "同 25 幅右反覆可見的口旁字，覆核內部筆劃。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "泄利",
+          "candidates": [],
+          "note": "泄字左下有淡小印，覆核是否有墨點。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "吐泻",
+          "candidates": [
+            "泻",
+            "污"
+          ],
+          "note": "水旁末字在本面及下幅右重見。"
+        }
+      ],
+      "observations": "左半葉右起第一欄為篇題；同幅右半葉為前篇。",
+      "catalogue_page": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p24",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001552%2FRB00001552_00024_0.ptif/0,0,3008,4016/1000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "sha256": "744f05ec16904b900a432bbfa2e3e9281ef7b2f99e869606d00525a08f372458",
+      "bytes": 135580,
+      "native_width": 3008,
+      "native_height": 4016,
+      "checked_sides": [
+        "left"
+      ],
+      "content_role": "titled-text",
+      "state": "initial-read"
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 25,
+      "sides": [
+        {
+          "side": "right",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "令不混可見其殷懃叮嚀矣予閲霍亂篇首"
+            },
+            {
+              "text": "章曰呃吐而利名曰霍亂矣此之章恐有脫"
+            },
+            {
+              "text": "語不然則後人之所攙乎何則以吐泻者為"
+            },
+            {
+              "text": "霍亂則如少陰病吐利手足厥冷亦為霍亂"
+            },
+            {
+              "text": "乎如彼傷食不吐不下者名乾霍亂乾即乾"
+            },
+            {
+              "text": "呃之乾無物之謂而即不吐下也至此霍亂"
+            },
+            {
+              "text": "之名儀不觧古人觧霍亂為揮霍撩亂者予"
+            },
+            {
+              "text": "以為不然何則是謂煩悶痛苦之態歟將謂",
+              "marks": [
+                {
+                  "mark": "•",
+                  "color": "black",
+                  "after": 13
+                }
+              ]
+            },
+            {
+              "text": "陰陽乖戻經絡雜混歟不當出於此之二也"
+            },
+            {
+              "text": "嗚呼雖諸患有輕重病則陰陽乖戻甚則煩"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "悶痛苦豈傷食而已哉山田氏曰霍與臛古"
+            },
+            {
+              "text": "字通用説文云臛肉羹也即引漿酒霍肉惟"
+            },
+            {
+              "text": "酒無量不及亂淫溺惑亂等之語以觧霍亂",
+              "marks": [
+                {
+                  "mark": "•",
+                  "color": "black",
+                  "after": 13
+                }
+              ]
+            },
+            {
+              "text": "此之説最為穏當也夫傷寒論也文辭簡古"
+            },
+            {
+              "text": "儀理深淵且也古經殘缺叔和撰次故有脫"
+            },
+            {
+              "text": "語有衍文有攙入不可謂仲景氏之完璧矣"
+            },
+            {
+              "text": "是以和漢説紛々然不帰一也孰為是焉孰"
+            },
+            {
+              "text": "為非焉不如多聞多視而取捨唯在己哉凡"
+            },
+            {
+              "text": "為食所傷十之八九係肉食故特挙臛以統"
+            },
+            {
+              "text": "一應食物也予從事霍亂為□鯖松魚呉魚"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "所攙乎",
+          "candidates": [
+            "攙",
+            "挾"
+          ],
+          "note": "與 25 幅左第六欄所見相互查核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "之名儀",
+          "candidates": [
+            "儀",
+            "義"
+          ],
+          "note": "左側疑有人旁。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "乖戻",
+          "candidates": [
+            "戻",
+            "戾"
+          ],
+          "note": "下欄同形，需核內側筆劃。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "霍與臛",
+          "candidates": [
+            "臛",
+            "膗"
+          ],
+          "note": "此字本文重見三次，需看肉旁及右側寫法。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "儀理",
+          "candidates": [
+            "儀",
+            "義"
+          ],
+          "note": "與 25 幅右第七欄所見相似。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "為□鯖",
+          "candidates": [
+            "鯛",
+            "鯣"
+          ],
+          "note": "連列魚名，首見魚旁字待定，後字已暫讀。"
+        }
+      ],
+      "observations": "右半葉先，左半葉後；欄間可見墨點。",
+      "catalogue_page": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001552%2FRB00001552_00025_0.ptif/full/2300,/0/default.jpg",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "bytes": 376733,
+      "native_width": 6016,
+      "native_height": 4016,
+      "checked_sides": [
+        "right",
+        "left"
+      ],
+      "content_role": "titled-text",
+      "state": "initial-read"
+    },
+    {
+      "image": 3,
+      "catalogue_frame": 26,
+      "sides": [
+        {
+          "side": "right",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "河豚海螺等所傷者居多或過飡肥膾或不"
+            },
+            {
+              "text": "伏水土皆能致此之症矣嘗偶見□魚肉理"
+            },
+            {
+              "text": "有細蟲脷□魚肝中亦有細蟲數條若誤飡"
+            },
+            {
+              "text": "如此之物雖無毒魚為之所害者必矣又有"
+            },
+            {
+              "text": "食韮吐血而死者有食海獺吐下鮮血身躰"
+            },
+            {
+              "text": "發紫黑斑點而死者是非尋常霍亂蓋同食"
+            },
+            {
+              "text": "毒蟲者也嗚呼雖五味能養生傷亦在五味"
+            },
+            {
+              "text": "一飲一食之間不敢縱口腹之欲故論語鄉",
+              "marks": [
+                {
+                  "mark": "•",
+                  "color": "black",
+                  "after": 13
+                }
+              ]
+            },
+            {
+              "text": "黨有飲食之戒矣世俗以霍亂為中暑病者"
+            },
+            {
+              "text": "誤矣夫夏月不堪於暑多啜生冷之物或引"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "飲救渇眠涼席臥風前胃氣□結而發是以"
+            },
+            {
+              "text": "夏月多而冬月少也非中暑之病矣不可不"
+            },
+            {
+              "text": "論也頃日同僚記松山生之治中河豚者予",
+              "marks": [
+                {
+                  "mark": "•",
+                  "color": "black",
+                  "after": 13
+                }
+              ]
+            },
+            {
+              "text": "又何謂哉故聊述愚意云爾"
+            },
+            {
+              "text": "文化乙亥四月十九日　中山照久誌"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "過飡",
+          "candidates": [
+            "飡",
+            "餐"
+          ],
+          "note": "第三欄末同形。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "見□魚",
+          "candidates": [
+            "鰹",
+            "鰙"
+          ],
+          "note": "魚旁字右部待辨。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "脷□魚",
+          "candidates": [
+            "脷",
+            "肺",
+            "章",
+            "荘",
+            "苹"
+          ],
+          "note": "第 4–5 字各待覆核。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "食海獺",
+          "candidates": [
+            "獺",
+            "獭"
+          ],
+          "note": "末字構形待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "胃氣□結",
+          "candidates": [
+            "鬱",
+            "鬰"
+          ],
+          "note": "密筆字筆形待覆核。"
+        }
+      ],
+      "observations": "左半葉第四欄止正文，第五欄為紀年署記，左側五空欄。本篇在此結束。",
+      "catalogue_page": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001552%2FRB00001552_00026_0.ptif/full/2300,/0/default.jpg",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "bytes": 352562,
+      "native_width": 6016,
+      "native_height": 4016,
+      "checked_sides": [
+        "right",
+        "left"
+      ],
+      "content_role": "text-and-colophon",
+      "state": "initial-read"
+    }
+  ]
+}
