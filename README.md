@@ -4,11 +4,11 @@
 
 Ian is a Classical Chinese essay dated 1815 in the Gagyū ian manuscript, Fujikawa Collection, Kyoto University Main Library, shelfmark カ/86. It discusses historical categories of digestive illness and records observations of illnesses attributed to food. It supports research on Edo-period medicine, the history of diagnosis and the history of food. The library catalogues the author as 中山照久; the handwritten signature reads 中山熙久.
 
-## V0.1.0
+## V0.2.0
 
-全文五個書面、45 欄，原圖從第24幅左半至第26幅左半。提供逐欄 TXT、JSON 與 TEI XML，館方幅號和篇內影像號有對照。AI 輔助初錄，疑字保留原圖位置。尚未經人類全文雙校或專家審定。
+全文五個書面、45 欄，原圖從第24幅左半至第26幅左半。提供逐欄 TXT、JSON 與 TEI XML，館方幅號和篇內影像號有對照。比對獨立原圖讀法後回圖裁定，採用 12 筆訂正，留存疑讀定位。
 
-Covers all five faces and 45 columns of the titled essay, from the left half of catalogue frame 24 through the left half of frame 26. TXT, JSON and TEI XML give column references and map the local sequence to the library’s frame numbers. AI-assisted transcription, with uncertain readings located on the source images. Human collation and expert review are pending.
+Covers all five faces and 45 columns of the titled essay, from the left half of catalogue frame 24 through the left half of frame 26. TXT, JSON and TEI XML give column references and map the local sequence to the library’s frame numbers. An independent image reading was compared with the first transcription. Source-image adjudication adopted 12 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

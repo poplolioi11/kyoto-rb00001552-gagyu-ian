@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -88,7 +88,7 @@
               <seg type="diplomatic-text">為食物所傷故腹痛吐泻轉筋厥冷或頭痛</seg>
             </ab>
             <ab type="column" n="8" xml:id="f01-l-c08">
-              <seg type="diplomatic-text">發熱惡寒身躰疼痛或吐泻後煩渴引飲小</seg>
+              <seg type="diplomatic-text">發勢惡寒身躰疼痛或吐泻後煩渴引飲小</seg>
             </ab>
             <ab type="column" n="9" xml:id="f01-l-c09">
               <seg type="diplomatic-text">便不利或欲吐而不吐欲利而不利腹滿絞</seg>
@@ -99,20 +99,9 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左半葉右起第一欄為篇題；同幅右半葉為前篇。</ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>呃噫</quote>
-              <seg type="candidate">呃</seg>
-              <note type="editorial">同 25 幅右反覆可見的口旁字，覆核內部筆劃。</note>
-            </ab>
             <ab type="transcription-issue" n="left:6">
               <quote>泄利</quote>
-              <note type="editorial">泄字左下有淡小印，覆核是否有墨點。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:7">
-              <quote>吐泻</quote>
-              <seg type="candidate">泻</seg>
-              <seg type="candidate">污</seg>
-              <note type="editorial">水旁末字在本面及下幅右重見。</note>
+              <note type="editorial">泄字旁淡痕的性質待核。</note>
             </ab>
           </div>
         </div>
@@ -138,11 +127,10 @@
               <seg type="diplomatic-text">呃之乾無物之謂而即不吐下也至此霍亂</seg>
             </ab>
             <ab type="column" n="7" xml:id="f02-r-c07">
-              <seg type="diplomatic-text">之名儀不觧古人觧霍亂為揮霍撩亂者予</seg>
+              <seg type="diplomatic-text">之名儀不解古人解霍亂為揮霍撩亂者予</seg>
             </ab>
             <ab type="column" n="8" xml:id="f02-r-c08">
               <seg type="diplomatic-text">以為不然何則是謂煩悶痛苦之態歟將謂</seg>
-              <note type="original-mark" n="13" rend="black">•</note>
             </ab>
             <ab type="column" n="9" xml:id="f02-r-c09">
               <seg type="diplomatic-text">陰陽乖戻經絡雜混歟不當出於此之二也</seg>
@@ -159,8 +147,7 @@
               <seg type="diplomatic-text">字通用説文云臛肉羹也即引漿酒霍肉惟</seg>
             </ab>
             <ab type="column" n="3" xml:id="f02-l-c03">
-              <seg type="diplomatic-text">酒無量不及亂淫溺惑亂等之語以觧霍亂</seg>
-              <note type="original-mark" n="13" rend="black">•</note>
+              <seg type="diplomatic-text">酒無量不及亂淫溺惑亂等之語以解霍亂</seg>
             </ab>
             <ab type="column" n="4" xml:id="f02-l-c04">
               <seg type="diplomatic-text">此之説最為穏當也夫傷寒論也文辭簡古</seg>
@@ -181,46 +168,24 @@
               <seg type="diplomatic-text">為食所傷十之八九係肉食故特挙臛以統</seg>
             </ab>
             <ab type="column" n="10" xml:id="f02-l-c10">
-              <seg type="diplomatic-text">一應食物也予從事霍亂為□鯖松魚呉魚</seg>
+              <seg type="diplomatic-text">一應食物也予從事霍亂為鰯鯖松魚呉魚</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">右半葉先，左半葉後；欄間可見墨點。</ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>所攙乎</quote>
-              <seg type="candidate">攙</seg>
-              <seg type="candidate">挾</seg>
-              <note type="editorial">與 25 幅左第六欄所見相互查核。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:7">
-              <quote>之名儀</quote>
-              <seg type="candidate">儀</seg>
-              <seg type="candidate">義</seg>
-              <note type="editorial">左側疑有人旁。</note>
+            <ab type="transcription-issue" n="right:8">
+              <quote>態歟將</quote>
+              <seg type="candidate">歟</seg>
+              <seg type="candidate">欵</seg>
+              <seg type="candidate">欤</seg>
+              <note type="editorial">態後形同下欄雜混後一字；筆形緊，暫用歟。</note>
             </ab>
             <ab type="transcription-issue" n="right:9">
-              <quote>乖戻</quote>
-              <seg type="candidate">戻</seg>
-              <seg type="candidate">戾</seg>
-              <note type="editorial">下欄同形，需核內側筆劃。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:1">
-              <quote>霍與臛</quote>
-              <seg type="candidate">臛</seg>
-              <seg type="candidate">膗</seg>
-              <note type="editorial">此字本文重見三次，需看肉旁及右側寫法。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>儀理</quote>
-              <seg type="candidate">儀</seg>
-              <seg type="candidate">義</seg>
-              <note type="editorial">與 25 幅右第七欄所見相似。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:10">
-              <quote>為□鯖</quote>
-              <seg type="candidate">鯛</seg>
-              <seg type="candidate">鯣</seg>
-              <note type="editorial">連列魚名，首見魚旁字待定，後字已暫讀。</note>
+              <quote>雜混歟</quote>
+              <seg type="candidate">歟</seg>
+              <seg type="candidate">欵</seg>
+              <seg type="candidate">欤</seg>
+              <note type="editorial">與上一欄的單字對看；尚未決原寫。</note>
             </ab>
           </div>
         </div>
@@ -231,10 +196,10 @@
               <seg type="diplomatic-text">河豚海螺等所傷者居多或過飡肥膾或不</seg>
             </ab>
             <ab type="column" n="2" xml:id="f03-r-c02">
-              <seg type="diplomatic-text">伏水土皆能致此之症矣嘗偶見□魚肉理</seg>
+              <seg type="diplomatic-text">伏水土皆能致此之症矣嘗偶見鱖魚肉理</seg>
             </ab>
             <ab type="column" n="3" xml:id="f03-r-c03">
-              <seg type="diplomatic-text">有細蟲脷□魚肝中亦有細蟲數條若誤飡</seg>
+              <seg type="diplomatic-text">有細蟲□□魚肝中亦有細蟲數條若誤飡</seg>
             </ab>
             <ab type="column" n="4" xml:id="f03-r-c04">
               <seg type="diplomatic-text">如此之物雖無毒魚為之所害者必矣又有</seg>
@@ -250,7 +215,6 @@
             </ab>
             <ab type="column" n="8" xml:id="f03-r-c08">
               <seg type="diplomatic-text">一飲一食之間不敢縱口腹之欲故論語鄉</seg>
-              <note type="original-mark" n="13" rend="black">•</note>
             </ab>
             <ab type="column" n="9" xml:id="f03-r-c09">
               <seg type="diplomatic-text">黨有飲食之戒矣世俗以霍亂為中暑病者</seg>
@@ -261,56 +225,44 @@
           </div>
           <div type="page-face" n="left" xml:lang="lzh">
             <ab type="column" n="1" xml:id="f03-l-c01">
-              <seg type="diplomatic-text">飲救渇眠涼席臥風前胃氣□結而發是以</seg>
+              <seg type="diplomatic-text">飲救渇眠凉席臥風前胃氣□結而發是以</seg>
             </ab>
             <ab type="column" n="2" xml:id="f03-l-c02">
               <seg type="diplomatic-text">夏月多而冬月少也非中暑之病矣不可不</seg>
             </ab>
             <ab type="column" n="3" xml:id="f03-l-c03">
               <seg type="diplomatic-text">論也頃日同僚記松山生之治中河豚者予</seg>
-              <note type="original-mark" n="13" rend="black">•</note>
             </ab>
             <ab type="column" n="4" xml:id="f03-l-c04">
               <seg type="diplomatic-text">又何謂哉故聊述愚意云爾</seg>
             </ab>
             <ab type="column" n="5" xml:id="f03-l-c05">
-              <seg type="diplomatic-text">文化乙亥四月十九日　中山照久誌</seg>
+              <seg type="diplomatic-text">文化乙亥四月十九日　中山熙久誌</seg>
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">左半葉第四欄止正文，第五欄為紀年署記，左側五空欄。本篇在此結束。</ab>
-            <ab type="transcription-issue" n="right:1">
-              <quote>過飡</quote>
-              <seg type="candidate">飡</seg>
-              <seg type="candidate">餐</seg>
-              <note type="editorial">第三欄末同形。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:2">
-              <quote>見□魚</quote>
-              <seg type="candidate">鰹</seg>
-              <seg type="candidate">鰙</seg>
-              <note type="editorial">魚旁字右部待辨。</note>
-            </ab>
+            <ab type="layout">左半葉第四欄止正文，第五欄為紀年署記，左側五空欄。本篇在此結束。 末欄署名按墨字暫作中山熙久，館目著錄中山照久。</ab>
             <ab type="transcription-issue" n="right:3">
-              <quote>脷□魚</quote>
-              <seg type="candidate">脷</seg>
-              <seg type="candidate">肺</seg>
+              <quote>有細蟲□□魚</quote>
+              <seg type="candidate">臍</seg>
+              <seg type="candidate">脐</seg>
+              <seg type="candidate">萃</seg>
+              <seg type="candidate">莘</seg>
               <seg type="candidate">章</seg>
-              <seg type="candidate">荘</seg>
-              <seg type="candidate">苹</seg>
-              <note type="editorial">第 4–5 字各待覆核。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:5">
-              <quote>食海獺</quote>
-              <seg type="candidate">獺</seg>
-              <seg type="candidate">獭</seg>
-              <note type="editorial">末字構形待覆核。</note>
+              <note type="editorial">共兩字待核；前字月旁，後字首筆近草頭，需名物研究協助。</note>
             </ab>
             <ab type="transcription-issue" n="left:1">
               <quote>胃氣□結</quote>
+              <seg type="candidate">欝</seg>
               <seg type="candidate">鬱</seg>
-              <seg type="candidate">鬰</seg>
-              <note type="editorial">密筆字筆形待覆核。</note>
+              <seg type="candidate">爵</seg>
+              <note type="editorial">字上部筆勢似爫，中央有框，下部密寫，保留疑讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>中山熙久誌</quote>
+              <seg type="candidate">熙</seg>
+              <seg type="candidate">煕</seg>
+              <note type="editorial">字形以熙暫編，館方著錄中山照久。</note>
             </ab>
           </div>
         </div>

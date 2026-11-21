@@ -1,0 +1,469 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 12,
+  "changes": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "kind": "main",
+      "op": "replace",
+      "before": "發熱",
+      "after": "發勢",
+      "reason": "勢字下見力形斜筆與內鉤，無熱下四點。",
+      "source_bbox": [
+        1462,
+        863,
+        1635,
+        1180
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "744f05ec16904b900a432bbfa2e3e9281ef7b2f99e869606d00525a08f372458",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p24"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "觧古人觧",
+      "after": "解古人解",
+      "reason": "放大後兩字右上為刀形，右下為牛，照錄解。",
+      "source_bbox": [
+        3591,
+        1418,
+        3764,
+        2012
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "以觧",
+      "after": "以解",
+      "reason": "右旁刀、牛同第25幅右第7欄的兩個解。",
+      "source_bbox": [
+        2320,
+        2666,
+        2493,
+        2983
+      ],
+      "offset": [
+        13,
+        15
+      ],
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "□鯖",
+      "after": "鰯鯖",
+      "reason": "魚旁右的雙弓及內點可見，採鰯；下字為魚旁青。",
+      "source_bbox": [
+        1114,
+        2389,
+        1287,
+        2705
+      ],
+      "offset": [
+        11,
+        13
+      ],
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "□魚肉理",
+      "after": "鱖魚肉理",
+      "reason": "魚旁右可見厂、屰與欠的斜末筆，採鱖。",
+      "source_bbox": [
+        4454,
+        2666,
+        4627,
+        3260
+      ],
+      "offset": [
+        13,
+        17
+      ],
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "脷□魚",
+      "after": "□□魚",
+      "reason": "月旁右似齊的省體，後字上部和中下筆畫仍可作多解，保留兩字疑讀。",
+      "source_bbox": [
+        4279,
+        1279,
+        4452,
+        1735
+      ],
+      "offset": [
+        3,
+        6
+      ],
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "眠涼席",
+      "after": "眠凉席",
+      "reason": "凉字左兩筆，採底本俗體。",
+      "source_bbox": [
+        2671,
+        1279,
+        2843,
+        1735
+      ],
+      "offset": [
+        3,
+        6
+      ],
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "照久",
+      "after": "熙久",
+      "reason": "署名第三字左部臣狀，右部巳，下部火點，較合熙，館目照另記。",
+      "source_bbox": [
+        1880,
+        2460,
+        2130,
+        2840
+      ],
+      "offset": [
+        12,
+        14
+      ],
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 8,
+      "kind": "page-feature",
+      "op": "remove-mark",
+      "before": "•（之旁）",
+      "after": "紙孔（版面觀察）",
+      "reason": "放大可見紙纖維內緣及孔內陰影；五面中四處等高，移出原筆讀點層。",
+      "source_bbox": [
+        3403,
+        2650,
+        3503,
+        2800
+      ],
+      "offset": [
+        12,
+        13
+      ],
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 3,
+      "kind": "page-feature",
+      "op": "remove-mark",
+      "before": "•（語旁）",
+      "after": "紙孔（版面觀察）",
+      "reason": "放大可見紙纖維內緣及孔內陰影；五面中四處等高，移出原筆讀點層。",
+      "source_bbox": [
+        2393,
+        2650,
+        2493,
+        2800
+      ],
+      "offset": [
+        12,
+        13
+      ],
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 8,
+      "kind": "page-feature",
+      "op": "remove-mark",
+      "before": "•（欲旁）",
+      "after": "紙孔（版面觀察）",
+      "reason": "放大可見紙纖維內緣及孔內陰影；五面中四處等高，移出原筆讀點層。",
+      "source_bbox": [
+        3403,
+        2650,
+        3503,
+        2800
+      ],
+      "offset": [
+        12,
+        13
+      ],
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "kind": "page-feature",
+      "op": "remove-mark",
+      "before": "•（中旁）",
+      "after": "紙孔（版面觀察）",
+      "reason": "放大可見紙纖維內緣及孔內陰影；五面中四處等高，移出原筆讀點層。",
+      "source_bbox": [
+        2396,
+        2650,
+        2496,
+        2800
+      ],
+      "offset": [
+        12,
+        13
+      ],
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p24",
+      "status": "字形或物理痕跡待核"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "status": "字形或物理痕跡待核"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "status": "字形或物理痕跡待核"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26",
+      "status": "字形或物理痕跡待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26",
+      "status": "字形或物理痕跡待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26",
+      "status": "字形或物理痕跡待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "catalogue_frame": 24,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p24",
+      "source_image_sha256": "744f05ec16904b900a432bbfa2e3e9281ef7b2f99e869606d00525a08f372458",
+      "source_bbox": [
+        1980,
+        863,
+        2153,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "呃噫",
+      "reason": "兩字口旁可見；呃與次幅呃吐、呃之乾同右部。"
+    },
+    {
+      "image": 1,
+      "catalogue_frame": 24,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p24",
+      "source_image_sha256": "744f05ec16904b900a432bbfa2e3e9281ef7b2f99e869606d00525a08f372458",
+      "source_bbox": [
+        1640,
+        863,
+        1813,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "吐泻",
+      "reason": "末筆對照同面第8欄與第25幅右第3欄，水旁右具寫的省體，存原樣。"
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 25,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "source_bbox": [
+        4279,
+        863,
+        4452,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "所攙乎",
+      "reason": "第25幅左第6欄同字；手旁右為兔類連筆，暫依攙。"
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 25,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "source_bbox": [
+        3591,
+        863,
+        3764,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "之名儀",
+      "reason": "氏名後字原具單人旁，保留原形。"
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 25,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "source_bbox": [
+        2671,
+        863,
+        2843,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "霍與臛",
+      "reason": "臛的肉旁可與同面第2、9欄互校，與霍兩字並列。"
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 25,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "source_bbox": [
+        2495,
+        863,
+        2668,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "漿酒霍肉",
+      "reason": "第13字上為將下為水；第15字從雨，直接按影像。"
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 25,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p25",
+      "source_image_sha256": "8237c225fbcc1ba0aff5e10784d6971055ced69714f3a0503ea481df6d2ea9c6",
+      "source_bbox": [
+        1640,
+        863,
+        1813,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "紛々",
+      "reason": "疊寫記號形清楚，保留。"
+    },
+    {
+      "image": 3,
+      "catalogue_frame": 26,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26",
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "source_bbox": [
+        3944,
+        863,
+        4117,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "海獺",
+      "reason": "左犬旁，右與賴構形相符；讀同欄所列名物。"
+    },
+    {
+      "image": 3,
+      "catalogue_frame": 26,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001552/canvas/p26",
+      "source_image_sha256": "bf1538a564c795b095af0a8c825c8202e572ac21fb49910bb18b9e5c6fa17952",
+      "source_bbox": [
+        3591,
+        863,
+        3764,
+        3260
+      ],
+      "status": "依原圖留讀",
+      "reading": "毒蟲者",
+      "reason": "第二字上主體、中段及下分筆，與同面第3欄所書蟲一致。"
+    }
+  ]
+}
